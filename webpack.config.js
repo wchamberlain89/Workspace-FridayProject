@@ -21,7 +21,7 @@ module.exports = {
 
   module: {
     rules: [
-      //Setup for SCSS Loaders
+      //Setup of SCSS Loaders for Webpack
       {
         //Regex test for scss files
         test: /\.scss$/,
@@ -31,7 +31,30 @@ module.exports = {
           "css-loader",
           "sass-loader"
         ]
-      }
+      },
+      //Setup of Image loaders for Webpack
+      {
+        //Regex test for file extensions
+        test: /\.(gif|png|jpe?g)$/,
+        //Matching file extensions use file loader
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              //Sets name of output file
+              name: '[name].[ext]',
+              //Sets path of output file in Dist Directory
+              outputPath: 'assets/images/'
+            }
+          }
+        ]
+      },
+      {
+        test:/\.html$/,
+        use: [
+          'html-loader'
+        ]
+      },
     ]
   },
 

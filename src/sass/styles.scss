@@ -1,3 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
 body {
   background-color: black;
+}
+
+header {
+  .background {
+    height: 35vh;
+    width: 100%;
+    background-color: white;
+  }
+
 }
