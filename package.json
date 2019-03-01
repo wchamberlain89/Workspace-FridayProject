@@ -1,0 +1,24 @@
+{
+  "name": "flowspace",
+  "version": "1.0.0",
+  "description": "Workspace dummy website for Freelance assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wchamberlain89/Workspace-FridayProject.git"
+  },
+  "author": "Ward Chamberlain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wchamberlain89/Workspace-FridayProject/issues"
+  },
+  "homepage": "https://github.com/wchamberlain89/Workspace-FridayProject#readme",
+  "devDependencies": {
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9"
+  }
+}
