@@ -1,3 +1,3 @@
 import './sass/styles.scss';
-
-console.log("hey");
+import 'bootstrap';
+import 'hamburgers';

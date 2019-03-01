@@ -90,12 +90,16 @@ main {
     max-width: 900px;
   }
   #location-photos {
-    display: grid;
-    grid-template-rows: repeat(3, 1fr);
+    margin: 0 auto;
+    .photo-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
     max-width: 1200px;
-    .location-photo {
-      min-width: 200px;
-      max-width: 500px;
+    .location-photo img{
+      max-width: 300px;
     }
     img {
       width: 100%;
