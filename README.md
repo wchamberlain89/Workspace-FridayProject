@@ -8,7 +8,14 @@
 ## Setup/Installation Requirements
 
 * Clone or Download from git.
-* Open Sketch file in Sketch or sketch viewer alternative
+* Open Sketch file in Sketch to view.
+
+Open site using Terminal
+  1. Navigate to folder home directory using Terminal <br>
+  2. execute - "npm init"
+  3. execute - "npm run build"
+  4. execute - "npm run start"
+  5. view site in browser
 
 ## Known Bugs
 
@@ -20,7 +27,9 @@ wchamberlain89@gmail.com
 
 ## Technologies Used
 
-Sketch
+Sketch <br>
+Webpack <br>
+Sass
 
 ## User Stories
 
