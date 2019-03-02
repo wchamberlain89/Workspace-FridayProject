@@ -44,5 +44,10 @@ Sketch
 
   * I'd like a events section to view upcoming events, so that I can easier make plans to attend.
 
-  ##### Non-Tech
+  #### Non-Tech
     * I'd like to see non-coding related pictures to show that the space is used for all kinds of projects.
+
+# _Project Photos_
+![alt text](sketches.jpg)
+![alt text](sketch-wireframe.png)
+![alt text](user-stories.jpg)

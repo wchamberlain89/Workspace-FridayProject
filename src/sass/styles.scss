@@ -29,6 +29,10 @@ p {
   line-height: 1.2em;
 }
 
+section {
+  padding: 2vh 0;
+}
+
 .hamburger {
   display: flex;
   align-items: center;
@@ -89,7 +93,7 @@ main {
     flex-direction: column;
     justify-content: center;
     max-width: 900px;
-    margin: 5vh auto;
+    margin: 0 auto;
   }
   #location-photos {
     margin: 0 auto;
@@ -112,6 +116,11 @@ main {
       background-color: #080E09;
       color: #d3d3d3;
       margin: 20px 0px;
+      transition: .5s;
+    }
+    button:hover {
+      color: #080E09;
+      background-color: #d3d3d3;
     }
   }
   #project-categories {
@@ -121,6 +130,7 @@ main {
     h2 {
       color: white;
       margin: 30px 0px;
+      text-shadow: 1px 2px 10px rgba(0,0,0,.7);
     }
     .category-container {
         display: flex;
@@ -151,6 +161,7 @@ main {
           min-width: 200px;
           width: 100%;
           margin-bottom: 5px;
+          box-shadow: 1px 2px 10px 2px rgba(0,0,0,.7);
         }
       }
     }
