@@ -5,6 +5,7 @@
   margin: 0;
   padding: 0;
   font-size: 16px;
+  font-family: "dosis";
   @include mQ(950px) {
     font-size: 14px;
   }
@@ -82,12 +83,13 @@ main {
   text-align: center;
   display: flex;
   flex-direction: column;
+  margin: auto;
   #intro {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 5vh auto;
     max-width: 900px;
+    margin: 5vh auto;
   }
   #location-photos {
     margin: 0 auto;
@@ -104,5 +106,54 @@ main {
     img {
       width: 100%;
     }
+    button {
+      padding: 15px;
+      border-radius: 30px;
+      background-color: #080E09;
+      color: #d3d3d3;
+      margin: 20px 0px;
+    }
+  }
+  #project-categories {
+
+
+    background-color: #648e37;
+    h2 {
+      color: white;
+      margin: 30px 0px;
+    }
+    .category-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        min-height: 20vh;
+      .category {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-width: 300px;
+        max-width: 25%;
+        height: auto;
+        color: white;
+        margin-bottom: 20px;
+        padding: 5px;
+        a {
+          text-decoration: none;
+          color: white;
+        }
+        a:hover {
+          color:#AAA;
+        }
+        img {
+          min-width: 200px;
+          width: 100%;
+          margin-bottom: 5px;
+        }
+      }
+    }
+
   }
 }

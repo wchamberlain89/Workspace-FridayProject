@@ -44,16 +44,17 @@ module.exports = {
               //Sets name of output file
               name: '[name].[ext]',
               //Sets path of output file in Dist Directory
-              outputPath: 'assets/images/'
+              outputPath: 'assets/imgs/'
             }
           }
         ]
       },
       {
         test:/\.html$/,
-        use: [
-          'html-loader'
-        ]
+        loader: 'html-srcsets-loader',
+        options: {
+          attrs: ['img:src', ':srcset']
+        }
       },
     ]
   },
