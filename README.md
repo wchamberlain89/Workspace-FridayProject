@@ -55,6 +55,47 @@ Sass
 
   #### Non-Tech
     * I'd like to see non-coding related pictures to show that the space is used for all kinds of projects.
+    
+## User Personas
+
+###Frank
+Potential Member - Scanning for information
+
+Needs
+-----
+Easy access to Membership pricing.
+Information on ammenities easy to access or view.
+Wants images of the business.
+
+Pain Points
+-----------
+Unclear membership details
+Doesn't want to feel sold to
+
+How to Serve
+------------
+Membership on homepage and available through main navigation.
+Clear ammenities page.
+Less blurbs about the company and more information about what they offer.
+
+###Lucy
+Potential Member - Artist
+
+Needs
+-----
+Studio Space for art not computers.
+Wants to come for more than just business. 
+
+Pain Points
+-----------
+Hard to tell who FlowSpace is designed for.
+Lack of community to drawn inspiration from.
+
+How to Serve
+------------
+Section for different community projects.
+Pictures that include people.
+Way to display the different kinds of workspaces available.
 
 # _Project Photos_
 ![alt text](sketches.jpg)
