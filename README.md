@@ -58,7 +58,7 @@ Sass
     
 ## User Personas
 
-###Frank
+### Frank
 Potential Member - Scanning for information
 
 Needs
@@ -74,11 +74,11 @@ Doesn't want to feel sold to
 
 How to Serve
 ------------
-Membership on homepage and available through main navigation.
-Clear ammenities page.
-Less blurbs about the company and more information about what they offer.
+ * Membership on homepage and available through main navigation.
+ * Clear ammenities page.
+ * Less blurbs about the company and more information about what they offer.
 
-###Lucy
+### Lucy
 Potential Member - Artist
 
 Needs
