@@ -63,14 +63,14 @@ Potential Member - Scanning for information
 
 Needs
 -----
-Easy access to Membership pricing.
-Information on ammenities easy to access or view.
-Wants images of the business.
+* Easy access to Membership pricing.
+* Information on ammenities easy to access or view.
+* Wants images of the business.
 
 Pain Points
 -----------
-Unclear membership details
-Doesn't want to feel sold to
+* Unclear membership details
+* Doesn't want to feel sold to
 
 How to Serve
 ------------
@@ -83,19 +83,39 @@ Potential Member - Artist
 
 Needs
 -----
-Studio Space for art not computers.
-Wants to come for more than just business. 
+* Studio Space for art not computers.
+* Wants to come for more than just business. 
 
 Pain Points
 -----------
-Hard to tell who FlowSpace is designed for.
-Lack of community to drawn inspiration from.
+* Hard to tell who FlowSpace is designed for.
+* Lack of community to drawn inspiration from.
 
 How to Serve
 ------------
-Section for different community projects.
-Pictures that include people.
-Way to display the different kinds of workspaces available.
+* Section for different community projects.
+* Pictures that include people.
+* Way to display the different kinds of workspaces available.
+
+### Devon
+ Potential Member - Team Lead
+ 
+ Needs
+ ------
+ * Meeting Space for his team
+ * Event information
+ * Easily contact Flowspace for more information
+ 
+ Pain Points
+ -----------
+ * Contact information hard to find.
+ * Lacking information on what flowspace offers in terms of team space or packages.
+ 
+ How to Serve
+ ------------
+ * Book a tour and contact information displayed near top of landing page.
+ * Subscription packages clearly stated for larger groups.
+ * Be inviting about calling or emailing for more information.
 
 # _Project Photos_
 ![alt text](sketches.jpg)
